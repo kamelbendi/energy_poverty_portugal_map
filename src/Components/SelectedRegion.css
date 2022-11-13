@@ -1,0 +1,33 @@
+.dropdown .dropbtn{
+    font-size: 16px;
+    color: black;
+    padding: 8px 10px;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+    border-radius: 4px;
+}  
+
+.dropdown-content{
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(53, 52, 52, 0.2);
+    z-index: 0;
+  }
+
+.dropdown-content button{
+    color: black;
+    padding: 6px 10px;
+    /* display: block; */
+    /* text-align: left; */
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content button:hover {
+    background-color: rgb(201, 199, 199);
+
+  }
+  
+  /* Show the dropdown menu on hover */
+ /*  .dropdown:hover .dropdown-content {
+    display: block;
+  } */
