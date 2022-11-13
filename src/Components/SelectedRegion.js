@@ -21,7 +21,7 @@ function SelectedRegion({regionFromButtonToMap}) {
         <>
             <div className="dropdown">
                   <button className="dropbtn">Select region</button>
-                  <div className="dropdown-content">
+                    <div className="dropdown-content">
                       <button onClick={changeToRawMap}>Raw Map</button>
                       <button onClick={changeToDataOfDistricts}> Districts </button>
                       <button onClick={changeToDataOfMunicipalities}> Municipalities </button>

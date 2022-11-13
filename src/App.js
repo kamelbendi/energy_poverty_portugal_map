@@ -10,13 +10,7 @@ function  App(){
 
   /* const [heatingSelected, setHeatingSelected] = useState(false) */
   //const mapStyle = useMemo(() => mapStyleFunction(), [fillColor])
-  
-  
-  
 
-  
-  
-  
     return(
       <>
         <Map />
