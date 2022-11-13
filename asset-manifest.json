@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/energy_poverty_portugal/static/css/main.b1fe0b69.css",
-    "main.js": "/energy_poverty_portugal/static/js/main.52594af5.js",
-    "index.html": "/energy_poverty_portugal/index.html",
-    "main.b1fe0b69.css.map": "/energy_poverty_portugal/static/css/main.b1fe0b69.css.map",
-    "main.52594af5.js.map": "/energy_poverty_portugal/static/js/main.52594af5.js.map"
+    "main.css": "/energy_poverty_portugal_map/static/css/main.b1fe0b69.css",
+    "main.js": "/energy_poverty_portugal_map/static/js/main.52594af5.js",
+    "index.html": "/energy_poverty_portugal_map/index.html",
+    "main.b1fe0b69.css.map": "/energy_poverty_portugal_map/static/css/main.b1fe0b69.css.map",
+    "main.52594af5.js.map": "/energy_poverty_portugal_map/static/js/main.52594af5.js.map"
   },
   "entrypoints": [
     "static/css/main.b1fe0b69.css",
